@@ -1,6 +1,6 @@
 # Home Assistant Add-on: Z-Wave JS
 
-Allow Home Assistant to talk to a Z-Wave Network via a USB Controller.
+Allow Home Assistant to talk to a Z-Wave Network via a USB Controller. Also adds support for tcp://Ip:port for serial over tcp
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 

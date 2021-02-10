@@ -1,5 +1,5 @@
 {
-  "name": "Name of repository",
-  "url": "http://www.example/addons",
-  "maintainer": "HomeAssistant Team <info@home-assistant.io>"
+  "name": "Zwave - JS w/ Serial over TCP",
+  "url": "https://github.com/rbflurry/zwave_js-serial-over-tcp",
+  "maintainer": "@rbflurry"
 }
