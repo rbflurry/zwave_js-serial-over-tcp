@@ -21,7 +21,7 @@ change if other devices are added to the system.
 1. Replace `null` in the `device` option in the add-on configuration and specify
    the device name in quotes: e.g., something like
    `"/dev/serial/by-id/usb-0658_0200-if00"`,
-   `"/dev/ttyUSB0"`, `"/dev/ttyAMA0"`, or `"/dev/ttyACM0"`.
+   `"/dev/ttyUSB0"`, `"/dev/ttyAMA0"`, or `"/dev/ttyACM0"`. Also suppport Serial over TCP, for example tcp://IP:Port
 2. Set your 16-byte (32 character hex) network key in the form `2232666D1...`
    used in order to connect securely to compatible devices. It is recommended
    that a network key is configured as some security enabled devices (locks, etc)
